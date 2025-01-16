@@ -6,7 +6,7 @@ Career Match is a web application designed to help job seekers find their ideal 
 ## Technologies Used
 - React.js
 - Redux for state management
-- Axios for API requests
+- Ky for API requests
 - Styled-components for styling
 - React Router for navigation
 
